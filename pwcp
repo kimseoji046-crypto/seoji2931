@@ -1,5 +1,6 @@
 <HTML>
+<script>?alert(document.cookie)</scipt>
 <body>
-alert<document.cookie>
+
 </body>
 </HTML>
